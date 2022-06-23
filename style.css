@@ -1,0 +1,252 @@
+body {
+    background: #ff0060
+}
+
+/* Main Section styles */
+main {
+    text-align: center;
+    color: #fff;
+}
+
+.hero-img {
+    width: 1400px;
+    opacity: 14%;
+    position: absolute;
+    left: 104px;
+    bottom: -280px;
+    z-index: 1;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 94px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+
+.ux-designer {
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 48px;
+}
+
+.social-icons {
+    margin-bottom: 71px;
+}
+
+.brands {
+    font-size: 24px;
+    padding-right: 28px;
+}
+
+/* About Section styles */
+.section-title {
+    font-family: 'Oswald', sans-serif;
+}
+
+.about-img {
+    width: 314px;
+    border-radius: 3px;
+}
+
+.about-wrap {
+    position: absolute;
+    left: 179px;
+    background-color: #fff;
+    padding: 74px;
+    width: 1000px;
+    box-sizing: content-box;
+    border-radius: 6px;
+    z-index: 2;
+}
+
+.section-title {
+    font-weight: 400;
+    font-size: 28px;
+    margin-top: 0px;
+}
+
+.about-content {
+    display: flex;
+    padding-top: 20px;
+}
+
+.about-para {
+    padding-left: 30px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.6rem;
+    color: #666161;
+}
+
+.about-lorem {
+    margin-top: 0px;
+}
+
+/* Projects Section styles */
+.projects-wrap {
+    top: 854px;
+    padding: 74px 74px 44px;
+}
+
+.project-details {
+    display: flex;
+    font-family: 'Lato', sans-serif;
+    padding-top: 20px;
+}
+
+.projects {
+    padding-right: 30px;
+}
+
+.project-name {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+}
+
+.project-year {
+    color: #666161;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Work Section styles */
+.work-wrap {
+    position: absolute;
+    top: 1362px;
+    padding: 74px 74px 44px;
+    font-family: 'Lato', sans-serif;
+}
+
+.work-links {
+    color: #000;
+    text-decoration: none;
+    padding-left: 7px;
+}
+
+.work-links:hover {
+    color: #ff0060;
+}
+
+.role {
+    margin-bottom: 32px;
+}
+
+.work2 {
+    padding-top: 20px;
+}
+
+/* Education Section styles */
+.education-wrap {
+    position: absolute;
+    top: 1893px;
+    padding: 74px 74px 44px;
+}
+.course-wrap {
+    display: flex;
+}
+
+.edu1 {
+    padding-right: 110px;
+}
+
+.course-name {
+    width: 240px;
+}
+
+/* Language Section styles */
+.language-wrap {
+    position: absolute;
+    top: 2228px;
+    padding: 74px 74px 44px;
+}
+
+.languages {
+    display: flex;
+}
+
+.proficiency {
+    padding-right: 221px;
+    padding-left: 8px;
+}
+
+.language {
+    display: flex;
+}
+
+/* Social Network Section styles */
+.social-wrap {
+    padding: 74px 74px 44px;
+    position: absolute;
+    top: 2500px;
+}
+
+.social {
+    display: flex;
+}
+
+.twitter, .linkedin, .dribbble {
+    font-size: 18px;
+}
+
+.twitter {
+    padding-right: 267px;
+}
+
+.linkedin {
+    padding-right: 236px;
+}
+
+.twitter:hover, .linkedin:hover, .dribbble:hover{
+    color: #ff0060;
+}
+
+/* Form section styles */
+.form-wrap {
+    padding: 74px 74px 44px;
+    position: absolute;
+    top: 2741px;
+}
+
+#email, #subject {
+    width: 100%;
+    height: 42px;
+    border-radius: 3px;
+    font-size: 16px;
+    border-color: #aaaaaa;
+    margin-bottom: 18px;
+    background: rgb(238, 238, 238);
+    border-color: rgb(238, 238, 238);
+}
+
+#enter-message {
+    width: 100%;
+    border-radius: 3px;
+    font-size: 16px;
+    background: rgb(238, 238, 238);
+    border-color: rgb(238, 238, 238);
+    height: 161px;
+    margin-bottom: 18px;
+}
+
+#send-message {
+    font-size: 16px;
+    padding: 16px;
+    border-radius: 30px;
+    background: #ff0060;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Footer styles */
+.footer-wrap {
+    color: #fff;
+    position: absolute;
+    top: 3400px;
+    left: 38%;
+    text-align: center;
+}
+
+.copyright {
+    padding-bottom: 16px;
+}
+
